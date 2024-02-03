@@ -1,4 +1,4 @@
-#include "library.h"
+#include "library/library.h"
 int main() {
 	int n; cout << "Input any number: ";
 	cin >> n;
